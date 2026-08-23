@@ -24,46 +24,47 @@ Passionate software engineer with expertise in backend systems, full-stack devel
 ## Technical Skills
 
 ### Languages
-- **Python** — Backend, AI/ML, scripting
-- **TypeScript/JavaScript** — Full-stack development
-- **Kotlin** — Android native development
-- **Java** — Systems & OOP foundations
-- **HTML/CSS** — Frontend markup & styling
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Backend & Frameworks
-- **FastAPI** — Modern async Python APIs with OpenAPI docs
-- **Node.js/Express** — REST APIs, server-side routing
-- **Flask** — Lightweight web applications
-- **Uvicorn** — ASGI server for production deployments
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=uvicorn&logoColor=white)
 
 ### Frontend
-- **React** — Component-based UIs with hooks & state management
-- **TypeScript** — Type-safe client-side code
-- **Jetpack Compose** — Modern Android declarative UI
-- **CSS/Tailwind** — Responsive styling
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Jetpack%20Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ### Databases & Storage
-- **PostgreSQL** — Relational database design, migrations, transactions
-- **MongoDB** — Document-oriented databases
-- **SQLite** — Embedded database solutions
-- **Prisma ORM** — Type-safe database access layer
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### Architecture & Engineering Concepts
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### Architecture & Concepts
 - **Clean Architecture** — Layered, testable, maintainable systems
 - **MVVM Pattern** — Separation of concerns on mobile
 - **REST APIs** — HTTP conventions, status codes, versioning
 - **JWT Authentication** — Stateless auth, token-based security
 - **System Design** — Scalability, concurrency, distributed concepts
 - **Data Structures & Algorithms** — Trees, graphs, sorting, searching, optimization
-
-### DevOps & Tools
-- **Docker** — Containerization, multi-stage builds
-- **Docker Compose** — Multi-container orchestration
-- **Git/GitHub** — Version control, CI/CD workflows
-- **Linux** — Command line, shell scripting
-- **GitHub Actions** — Automated testing, build pipelines
-
-### Specializations
 - **Microservices Architecture** — Modular, scalable backend systems
 - **Async Programming** — Coroutines, event loops, concurrency
 - **Testing** — Unit, integration, and E2E testing strategies
@@ -78,7 +79,12 @@ Passionate software engineer with expertise in backend systems, full-stack devel
 
 Modern, high-performance Android media management app built with Kotlin and Jetpack Compose. Demonstrates clean architecture, MVVM pattern, and advanced Android APIs.
 
-**Tech Stack:** Kotlin · Jetpack Compose · Material Design 3 · Clean Architecture · MVVM · Room · ExoPlayer · WorkManager · Hilt DI
+**Tech Stack:** 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack%20Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Material%20Design%203](https://img.shields.io/badge/Material%20Design%203-757575?style=flat&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20Database-4285F4?style=flat&logoColor=white)
+![ExoPlayer](https://img.shields.io/badge/ExoPlayer-FF6D00?style=flat&logoColor=white)
 
 **Key Features:**
 - Adaptive media grid with batch operations
@@ -97,7 +103,14 @@ Modern, high-performance Android media management app built with Kotlin and Jetp
 
 Full-stack enterprise application for wholesale distribution management. Role-based access control, inventory tracking, and sales order workflow with atomic transactions.
 
-**Tech Stack:** Node.js · TypeScript · Express · Prisma ORM · PostgreSQL · React · Docker · Nginx
+**Tech Stack:** 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Key Features:**
 - Multi-role authentication (Admin, Sales, Warehouse, Accounts)
@@ -119,7 +132,11 @@ Full-stack enterprise application for wholesale distribution management. Role-ba
 
 Microservice-based AI matching system that semantically matches resumes to job postings. Demonstrates modern async backend patterns and AI integration.
 
-**Tech Stack:** FastAPI · Python · React · Sentence Transformers · Microservices · Async/Await
+**Tech Stack:** 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat&logoColor=white)
 
 **Key Features:**
 - FastAPI microservice with semantic matching
@@ -138,7 +155,11 @@ Microservice-based AI matching system that semantically matches resumes to job p
 
 Core routing engine with policy-based routing, destination classification, and audit trail persistence. Full-stack with React admin dashboard.
 
-**Tech Stack:** Python · FastAPI · React · TypeScript · Modular Architecture
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Key Features:**
 - Policy-based routing engine
@@ -157,7 +178,11 @@ Core routing engine with policy-based routing, destination classification, and a
 
 Postman-like API testing tool. Demonstrates auth, request handling, and full-stack development.
 
-**Tech Stack:** React · FastAPI · JWT Authentication · Local Persistence
+**Tech Stack:** 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 **Features:**
 - User authentication & JWT tokens
