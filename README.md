@@ -36,8 +36,6 @@ Passionate software engineer with expertise in backend systems, full-stack devel
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=uvicorn&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -47,7 +45,6 @@ Passionate software engineer with expertise in backend systems, full-stack devel
 
 ### AI / ML
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat&logoColor=white)
-![Semantic%20Matching](https://img.shields.io/badge/Semantic%20Matching-9966CC?style=flat&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-336699?style=flat&logoColor=white)
 
 ### Databases & Storage
