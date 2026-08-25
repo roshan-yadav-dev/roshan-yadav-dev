@@ -8,7 +8,7 @@ Building scalable backend systems, full-stack applications, and AI-powered produ
 
 ## About Me
 
-Passionate software engineer with expertise in backend systems, full-stack development, and AI/ML integration. Strong foundation in data structures, algorithms, and system design. Currently exploring microservices, distributed systems, and production-grade application architecture.
+Passionate software engineer with expertise in backend systems, full-stack development, and AI/ML integration. Strong foundation in data structures, algorithms, and system design. Currently exploring advanced backend patterns, microservices architecture, and AI-driven applications.
 
 **Engineering Interests:**
 - Backend & API Development
@@ -45,6 +45,11 @@ Passionate software engineer with expertise in backend systems, full-stack devel
 ![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
+### AI / ML
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat&logoColor=white)
+![Semantic%20Matching](https://img.shields.io/badge/Semantic%20Matching-9966CC?style=flat&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-336699?style=flat&logoColor=white)
+
 ### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -55,8 +60,8 @@ Passionate software engineer with expertise in backend systems, full-stack devel
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### Architecture & Concepts
 - **Clean Architecture** — Layered, testable, maintainable systems
@@ -137,6 +142,7 @@ Microservice-based AI matching system that semantically matches resumes to job p
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Key Features:**
 - FastAPI microservice with semantic matching
@@ -159,7 +165,7 @@ Core routing engine with policy-based routing, destination classification, and a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Key Features:**
 - Policy-based routing engine
